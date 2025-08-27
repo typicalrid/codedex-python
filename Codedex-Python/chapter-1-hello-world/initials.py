@@ -1,0 +1,7 @@
+print ('RRRR  A')
+print ('R   R   A')
+print ('R   R   A')
+print ('R   R   A')
+print ('R   R   A')
+print ('R   R   A')
+print ('RRRR  A')
